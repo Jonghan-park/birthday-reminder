@@ -7,7 +7,7 @@
 The project of purpose is to get used to React.js 
 
 # Environment
-Used : React.js, CSS
+Used : React.js, CSS  
 IDE : Visual Studio Code
 
 # Sample screenshots
