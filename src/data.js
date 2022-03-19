@@ -8,7 +8,7 @@ export default[
 {
     id: 2,
     name: 'Jonghan Park',
-    age: 34,
+    age: 24,
     image:'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8Di5Xe-0ty58fzXIdk_2OQHaFj%26pid%3DApi&f=1',
 }
 ]
